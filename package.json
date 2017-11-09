@@ -1,0 +1,18 @@
+{
+  "name": "win-installer",
+  "version": "1.0.0",
+  "description": "windows installer for electron",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "windows",
+    "installer"
+  ],
+  "author": "evans",
+  "license": "ISC",
+  "dependencies": {
+    "electron-winstaller": "^2.6.3"
+  }
+}
